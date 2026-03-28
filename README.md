@@ -1,6 +1,8 @@
 # 👋 Hey, I'm Akash Singhal  
 
-💻 Backend Software Engineer | Python | FastAPI | Django  
+🚀 Backend Engineer | FastAPI | Django | AWS | System Design  
+
+💡 Building scalable APIs, optimizing databases, and designing backend systems.
 
 ---
 
@@ -100,8 +102,8 @@ Backend Engineer with **2+ years of experience** building scalable and productio
 
 ## 📊 Problem Solving
 
-- LeetCode  
-- GeeksForGeeks  
+- LeetCode:  https://leetcode.com/u/AS200211/
+- GeeksForGeeks:  https://www.geeksforgeeks.org/profile/akash2002singhal
 
 ---
 
